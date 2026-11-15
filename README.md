@@ -47,3 +47,7 @@ your own component and token names.
 `references/expressive-in-compose.md` records the status of Expressive APIs as of
 2026-11. The skill tells the reviewer to re-check the release notes; update the table
 when you notice it has drifted.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
